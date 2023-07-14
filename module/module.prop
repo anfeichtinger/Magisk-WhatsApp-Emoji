@@ -1,7 +1,7 @@
 id=Magisk_WhatsApp_Emoji
 name=WhatsApp Emoji Font (Unicode 15)
-version=v1501
-versionCode=1501
+version=v1502
+versionCode=1502
 author=anfeichtinger
 description=Systemlessly replaces emoji font with WhatsApp Emoji (Unicode 15)
-updateJson=https://raw.githubusercontent.com/anfeichtinger/Magisk-WhatsApp-Emoji/main/magisk-update-info.json
+updateJson=https://raw.githubusercontent.com/anfeichtinger/Magisk-WhatsApp-Emoji/main/update.json
